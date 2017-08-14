@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">网络诊断</string>
+    <string name="remind_address_no_null">地址不能为空</string>
+    <string name="remind_input_right_address">请输入正确Ip或域名</string>
+</resources>
